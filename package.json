@@ -1,5 +1,5 @@
 {
-  "name": "parallelfor",
+  "name": "@jmurrayjr/parallelfor",
   "version": "1.0.0",
   "description": "A simple library for performing parallel asynchronous tasks",
   "main": "index.js",
@@ -18,5 +18,8 @@
   "dependencies": {
     "promise-parallel-throttle": "^3.5.0",
     "yargs": "^17.7.2"
+  },
+  "directories": {
+    "test": "test"
   }
 }
